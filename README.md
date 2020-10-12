@@ -1,4 +1,4 @@
-### Parts of the course project
+### Milestones from the course project
 
 1. Semantic UI
 2. react-scripts ( REACT_APP_XXX)
